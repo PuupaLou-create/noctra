@@ -1,0 +1,1 @@
+(function(){const id=(window.NOCTRA_GOATCOUNTER||"").trim();if(!/^[a-z0-9-]+$/.test(id))return;const s=document.createElement("script");s.async=true;s.dataset.goatcounter="https://"+id+".goatcounter.com/count";s.src="https://gc.zgo.at/count.js";document.head.appendChild(s)})();
