@@ -1,0 +1,15 @@
+[
+  {
+    "slug": "bienvenue",
+    "title": "Bienvenue dans NOCTRA",
+    "category": "Laboratoire",
+    "date": "2026-11-15",
+    "excerpt": "Pourquoi cette revue existe et ce que vous y trouverez.",
+    "tags": [
+      "revue",
+      "présentation"
+    ],
+    "readingMinutes": 2,
+    "published": true
+  }
+]
