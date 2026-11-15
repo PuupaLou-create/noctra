@@ -11,15 +11,5 @@
     ],
     "readingMinutes": 2,
     "published": true
-  },
-  {
-    "slug": "brouillon",
-    "title": "brouillon",
-    "category": "Archives",
-    "date": "2026-11-15",
-    "excerpt": "blop",
-    "tags": [],
-    "readingMinutes": 5,
-    "published": true
   }
 ]
